@@ -1,0 +1,13 @@
+{
+  "name": "Remix: VibeSync",
+  "description": "Real-time virtual hangout platform for synced media, chat, and voice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "realtime",
+    "webrtc"
+  ]
+}
