@@ -46,5 +46,3 @@ VibeSync is optimized for **ngrok** and other tunneling services. The built-in N
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
 
-## 📄 License
-MIT License - Created by Antigravity
